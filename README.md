@@ -15,8 +15,8 @@ print(str(result) + " Done Calculate!")
 ```
 
 # Explain:
-So in Python. input just like you typing find some python cources!
-It will Save it. These are Variable! 
-Float in python is a Decimals point!. Number [1] --> 1.0
-Basicly is gonna print Result and then say Done Calculate!
-str is a String for add an Text like that!
+- So in Python. input just like you typing find some python cources!
+- It will Save it. These are Variable! 
+- Float in python is a Decimals point!. Number [1] --> 1.0
+- Basicly is gonna print Result and then say Done Calculate!
+- str is a String for add an Text like that!
