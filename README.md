@@ -9,7 +9,7 @@ num2 = input("Second Number: ")
 result = float(num1) + float(num2)
 # Float in python is a Decimals point!. Number [1] --> 1.0
 
-print(str(result) + " Done Calculate!")
+print(str(result) + " | Done Calculate!")
 # Basicly is gonna print Result and then say Done Calculate!
 # str is a String for add an Text like that!
 ```
